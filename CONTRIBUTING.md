@@ -46,7 +46,7 @@ project.
 ## <a name="docs"></a> Want a Doc Fix?
 If you want to help improve the docs, it's a good idea to let others know what you're working on to
 minimize duplication of effort. Before starting, check out the issue queue for
-[Milestone:Docs Only](https://github.com/angular/angular.js/issues?milestone=24&state=open).
+[Milestone:Docs Only](https://github.com/angular/angular.js/milestones).
 Comment on an issue to let others know what you're working on, or create a new issue if your work
 doesn't fit within the scope of any of the existing doc fix projects.
 
